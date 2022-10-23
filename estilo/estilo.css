@@ -8,20 +8,20 @@ body{
     background-color: #b8b08d;
 }
 main{
-    margin-left: 3em;
-    margin-right: 3em;
+    margin-left: 6em;
+    margin-right: 6em;
 }
 table {
 font-family: Tahoma, sans-serif;
   color: #000000;
   background-color: #04524e;
   display: table;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
   border-color: #04524e98;
   border-style: groove;
-  border-radius: 1em;
-  border-width: 0.3em;
+  border-radius: 2em;
+  border-width: 0.6em;
 }
 header {
     font-family: Tahoma, sans-serif;
@@ -32,28 +32,28 @@ h1 {
     color: #D8D8F6;    
     background-color:#283845; 
     text-transform: uppercase;
-    padding: 6em; 
+    padding: 12em; 
     display: flex;
-    margin-top: 2em;
-    margin-bottom: 1em;    
+    margin-top: 4em;
+    margin-bottom: 2em;    
     border-color: #04524e;
-    border-radius: 1em;
-    border-width: 1em;
-    border-spacing: 1em;
+    border-radius: 2em;
+    border-width: 2em;
+    border-spacing: 2em;
     border-style: double;
 }
 h2 {
     color: #D8D8F6;    
     background-color:rgb(209, 82, 53); 
     text-transform: uppercase;
-    padding: 1em;   
+    padding: 2em;   
     display: flex;  
-    margin-top: 1em;
-    margin-bottom: 1em;
+    margin-top: 2em;
+    margin-bottom: 2em;
     border-color: #744909;
-    border-radius: 1em;
-    border-width: 1em;
-    border-spacing: 1em;
+    border-radius: 2em;
+    border-width: 2em;
+    border-spacing: 2em;
     border-style: double;
 }
 tr{
@@ -70,13 +70,13 @@ caption{
     color: #D8D8F6;    
     background-color:#283845; 
     text-transform: uppercase;
-    padding: 6em; 
-    margin-top: 6em;
-    margin-bottom: 3em;    
+    padding: 12em; 
+    margin-top: 12em;
+    margin-bottom:6em;    
     border-color: #04524e;
-    border-radius: 1em;
-    border-width: 1em;
-    border-spacing: 1em;
+    border-radius: 2em;
+    border-width: 2em;
+    border-spacing: 2em;
     border-style: double;
     
 }
@@ -85,23 +85,23 @@ form{
   font-family: Tahoma, sans-serif;
   color: #000000;
   background-color: #7fcaf5;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 a{
   font-family: Tahoma, sans-serif;
   color: #020822;
   background-color: #b8b08d;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 ul{
   font-family: Tahoma, sans-serif;
   color: #020822;
   background-color: #b8b08d;
-  margin-top: 1em;
-  margin-bottom: 1em;
+  margin-top: 2em;
+  margin-bottom: 2em;
 }
 footer{
-    margin-left: 3em;
+    margin-left: 6em;
 }
